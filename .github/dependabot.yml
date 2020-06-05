@@ -9,8 +9,7 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "daily"
-      time: "14:40"
+      time: "09:00"
       timezone: "Asia/Tokyo"
     assignees:
       - "naoki-sawada"
-    versioning-strategy: increase
